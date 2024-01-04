@@ -1,4 +1,7 @@
 # Mostly-American-Textures (M.A.T)
+<img width="164" alt="MAT" src="https://github.com/Spacercookie/Mostly-American-Textures/assets/154394400/14249980-9ae4-4ef4-88bf-0bd3552b8aca">
+
+
 This is mostly just American flags/colors. I made this within an hour or so
 
 <img width="191" alt="Flag_white" src="https://github.com/Spacercookie/Mostly-American-Textures/assets/154394400/666e6aff-e0d9-4e17-834b-a122394d05a8">
